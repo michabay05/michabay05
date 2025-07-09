@@ -1,6 +1,6 @@
 <h1 align="center">michabay05</h1>
 
-<h4 align="center">Algorithmic Trading | Chess Engine</h4>
+<h4 align="center">Algorithmic Trading | Chess Engine | Low-level Dev</h4>
 <h5 align="center">🎓 First-year Computer Engineering Bachelor at GMU</h5>
 <br>
 
